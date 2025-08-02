@@ -5,17 +5,17 @@
   <meta charset="UTF-8" />
   <title>Login</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="CSS/layoutNavHeader.css">
+  <link rel="stylesheet" href="CSS/base.css">
     <link rel="shortcut icon" href="images/logo.png" type="image/x-icon">
 </head>
 
 <body>
   <header>
-    <?php require_once "_parts/_menu.php"; ?>
+    <?php //require_once "_parts/_menu.php"; ?>
   </header>
 
   <nav>
-    <?php require_once "_parts/_navSite.php"; ?>
+    <?php //require_once "_parts/_navSite.php"; ?>
   </nav>
 
   <div class="container d-flex justify-content-center">
@@ -30,13 +30,12 @@
           <label for="senha" class="form-label">Senha</label>
           <input type="password" class="form-control" id="senhaLogin" name="senhaLogin" required>
         </div>
-        <a href="cadUsuario.php">Criar Conta</a>
         <button type="submit" class="btn btn-dark" name="btnLogin">Efetuar Login</button>
       </form>
     </div>
   </div>
   <footer>
-    <?php require_once "_parts/_footer.php"; ?>
+    <?php //require_once "_parts/_footer.php"; ?>
   </footer>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js"></script>
 </body>
