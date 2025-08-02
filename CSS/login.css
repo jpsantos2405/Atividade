@@ -1,0 +1,23 @@
+@import url("base.css");
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh; 
+  }
+  
+  .login-container{
+    width: 100%;
+    max-width: 400px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    background-color: #f5fdff; 
+    height: 45%;
+  }
+  .btn-dark{
+    width: 100%;
+    margin-top: 10px;
+  }
+ 
