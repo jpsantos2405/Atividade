@@ -5,4 +5,4 @@
     </div>
 </div>
 
-<p class="card-text ftxt">&copy; 2025 - Mazzutti Automóveis, Todos os direitos reservados</p>
+<p class="card-text ftxt">&copy; 2025 - Mazutti Automóveis, Todos os direitos reservados</p>

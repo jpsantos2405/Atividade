@@ -1,4 +1,4 @@
-<img src="placeholder.png" alt="Profile" class="pfp">
+<img src="images/placeholder.png" alt="Profile" class="pfp">
         <nav class="navbar navbar-expand-lg custom-navbar">
             <div class="container-fluid">
               <a class="navbar-brand" href="#"></a>
