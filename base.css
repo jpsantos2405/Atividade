@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html,
+  body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+  }
+  header{
+    background-color: #3a5ae7;
+    height: 100px;
+    border-radius: 0 0 10px 10px;
+  }
+  .pfp{
+    width: 3%;
+    height: 60%;
+    margin-top: 20px;
+  margin-left: 1830px;
+  }
+  .custom-navbar {
+margin-top: -70px;
+margin-left: 1100px;
+  }
+  
+  .custom-navbar .navbar-brand,
+  .custom-navbar .nav-link {
+    color: #ffffff !important;
+    font-weight: bold !important;
+    font-size: 1.9rem !important;
+  }
+  
+
+  .custom-navbar .navbar-nav .nav-link {
+    margin-right: 100px; 
+  }
+  
+  .custom-navbar .nav-link:hover,
+  .custom-navbar .nav-link:focus {
+    color: #3f1c01 !important;
+  }
