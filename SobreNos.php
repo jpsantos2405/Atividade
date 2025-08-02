@@ -55,13 +55,14 @@
         <li class="txt1">Qualidade dos veículos e motos: revisamos cada item com rigor técnico e responsabilidade.</li>
         <li class="txt1">Paixão pelo que fazemos: nossa equipe é formada por pessoas que amam o setor automotivo.</li>
     </ul>
+<br>
+<br>
+    <h2 class="title2">Nossa História</h2>
+    <p class="txt3">A história da Mazutti Automóveis começou de forma simples, com poucos veículos, uma estrutura modesta e muita força de vontade. Nossos fundadores acreditaram no potencial de Pimenta Bueno e apostaram em um atendimento diferenciado, focado na relação de confiança com o cliente. Desde o início, participamos de feiras, eventos da cidade e ações sociais, sempre com o objetivo de estar próximos da comunidade. Ao longo dos anos, enfrentamos desafios, como oscilações no mercado e mudanças econômicas, mas nunca deixamos de acreditar em nosso propósito.</p>
 
-    <h2>Nossa História</h2>
-    <p>A história da Mazutti Automóveis começou de forma simples, com poucos veículos, uma estrutura modesta e muita força de vontade. Nossos fundadores acreditaram no potencial de Pimenta Bueno e apostaram em um atendimento diferenciado, focado na relação de confiança com o cliente. Desde o início, participamos de feiras, eventos da cidade e ações sociais, sempre com o objetivo de estar próximos da comunidade. Ao longo dos anos, enfrentamos desafios, como oscilações no mercado e mudanças econômicas, mas nunca deixamos de acreditar em nosso propósito.</p>
+    <p class="txt3">Com o tempo, fomos crescendo e conquistando espaço no mercado regional. A confiança dos nossos clientes nos permitiu expandir a equipe, modernizar nossas instalações e investir em novas tecnologias. Hoje, somos referência não só pela qualidade dos veículos, mas também pela forma como tratamos cada cliente: com respeito, dedicação e atenção aos detalhes. Nossa trajetória é feita de histórias reais, de famílias que compraram seu primeiro carro conosco, de jovens que realizaram o sonho da moto própria, e de profissionais que confiam em nossos veículos para o trabalho do dia a dia.</p>
 
-    <p>Com o tempo, fomos crescendo e conquistando espaço no mercado regional. A confiança dos nossos clientes nos permitiu expandir a equipe, modernizar nossas instalações e investir em novas tecnologias. Hoje, somos referência não só pela qualidade dos veículos, mas também pela forma como tratamos cada cliente: com respeito, dedicação e atenção aos detalhes. Nossa trajetória é feita de histórias reais, de famílias que compraram seu primeiro carro conosco, de jovens que realizaram o sonho da moto própria, e de profissionais que confiam em nossos veículos para o trabalho do dia a dia.</p>
-
-    <img src="images/historia.png" alt="Foto antiga da primeira loja Mazutti Automóveis" width="600">
+    <img src="images/historia.png" alt="Foto antiga da primeira loja Mazutti Automóveis" width="600" class="img1">
     <footer>
     <?php require_once "_parts/_footer.php"; ?>
   </footer>
