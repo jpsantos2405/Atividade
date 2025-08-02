@@ -10,10 +10,10 @@
               <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Sobre nós</a>
+                    <a class="nav-link active" aria-current="page" href="sobreNos.php">Sobre nós</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Contatos</a>
+                    <a class="nav-link active" aria-current="page" href="contatos.php">Contatos</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="login.php">Login</a>
