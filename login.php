@@ -20,11 +20,11 @@
         <form action="validarLogin.php" method="post">
           <div class="mb-3">
             <label for="usuarioLogin" class="form-label">Usuário</label>
-            <input type="text" class="form-control" id="usuarioLogin" name="usuarioLogin" required>
+            <input type="text" class="form-control" id="usuarioLogin" name="usuarioLogin" placeholder="Digite seu e-mail ou login!" required>
           </div>
           <div class="mb-3">
             <label for="senhaLogin" class="form-label">Senha</label>
-            <input type="password" class="form-control" id="senhaLogin" name="senhaLogin" required>
+            <input type="password" class="form-control" id="senhaLogin" name="senhaLogin" placeholder="Digite sua senha!"required>
           </div>
           <button type="submit" class="btn btn-dark" name="btnLogin">Efetuar Login</button>
         </form>
